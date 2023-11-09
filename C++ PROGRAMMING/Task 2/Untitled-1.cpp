@@ -1,1 +1,0 @@
-//this is task 2 of c++
